@@ -22,6 +22,7 @@
 		67FCDC6F2A7C322D00434E71 /* Lesson06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC6E2A7C322D00434E71 /* Lesson06.swift */; };
 		67FCDC712A7C3ACE00434E71 /* Lesson07.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC702A7C3ACE00434E71 /* Lesson07.swift */; };
 		67FCDC732A7EBB4900434E71 /* Lesson08.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC722A7EBB4900434E71 /* Lesson08.swift */; };
+		67FCDC752A7EBFB500434E71 /* Lesson09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC742A7EBFB500434E71 /* Lesson09.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		67FCDC6E2A7C322D00434E71 /* Lesson06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson06.swift; sourceTree = "<group>"; };
 		67FCDC702A7C3ACE00434E71 /* Lesson07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson07.swift; sourceTree = "<group>"; };
 		67FCDC722A7EBB4900434E71 /* Lesson08.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson08.swift; sourceTree = "<group>"; };
+		67FCDC742A7EBFB500434E71 /* Lesson09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson09.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				67FCDC6E2A7C322D00434E71 /* Lesson06.swift */,
 				67FCDC702A7C3ACE00434E71 /* Lesson07.swift */,
 				67FCDC722A7EBB4900434E71 /* Lesson08.swift */,
+				67FCDC742A7EBFB500434E71 /* Lesson09.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 				67FCDC6B2A7C300E00434E71 /* Lesson04.swift in Sources */,
 				67FCDC632A7C2C8500434E71 /* Lesson01.swift in Sources */,
 				67FCDC732A7EBB4900434E71 /* Lesson08.swift in Sources */,
+				67FCDC752A7EBFB500434E71 /* Lesson09.swift in Sources */,
 				67FCDC6F2A7C322D00434E71 /* Lesson06.swift in Sources */,
 				67FCDC362A783A9C00434E71 /* SwiftUI100App.swift in Sources */,
 				67FCDC692A7C2F4D00434E71 /* Lesson03.swift in Sources */,
