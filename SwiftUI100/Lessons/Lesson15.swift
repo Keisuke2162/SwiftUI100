@@ -20,7 +20,7 @@ struct Lesson15: View {
                 .resizable()
                 .aspectRatio(contentMode: .fit)
                 .frame(width: 50, height: 50)
-        }.alert("アラート   ", isPresented: $isShowAlert) {
+        }.alert("アラート", isPresented: $isShowAlert) {
             Button("OK") {}
             Button("Cancel", role: .cancel) {}
         } message: {
