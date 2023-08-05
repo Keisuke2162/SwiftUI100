@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// MEMO: iOS14以前で表示するやり方
+
 struct Lesson14: View {
     @State private var isShowAlert = false
 
