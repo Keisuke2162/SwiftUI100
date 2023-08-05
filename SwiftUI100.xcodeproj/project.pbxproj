@@ -28,6 +28,7 @@
 		67FCDC7B2A7EC5E800434E71 /* Lesson12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC7A2A7EC5E800434E71 /* Lesson12.swift */; };
 		67FCDC7D2A7EC68800434E71 /* Lesson13.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC7C2A7EC68800434E71 /* Lesson13.swift */; };
 		67FCDC7F2A7ECA5100434E71 /* Lesson14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC7E2A7ECA5100434E71 /* Lesson14.swift */; };
+		67FCDC812A7ECF6000434E71 /* Lesson15.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC802A7ECF6000434E71 /* Lesson15.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,7 @@
 		67FCDC7A2A7EC5E800434E71 /* Lesson12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson12.swift; sourceTree = "<group>"; };
 		67FCDC7C2A7EC68800434E71 /* Lesson13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson13.swift; sourceTree = "<group>"; };
 		67FCDC7E2A7ECA5100434E71 /* Lesson14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson14.swift; sourceTree = "<group>"; };
+		67FCDC802A7ECF6000434E71 /* Lesson15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson15.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -173,6 +175,7 @@
 				67FCDC7A2A7EC5E800434E71 /* Lesson12.swift */,
 				67FCDC7C2A7EC68800434E71 /* Lesson13.swift */,
 				67FCDC7E2A7ECA5100434E71 /* Lesson14.swift */,
+				67FCDC802A7ECF6000434E71 /* Lesson15.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -312,6 +315,7 @@
 				67FCDC7F2A7ECA5100434E71 /* Lesson14.swift in Sources */,
 				67FCDC6B2A7C300E00434E71 /* Lesson04.swift in Sources */,
 				67FCDC792A7EC44C00434E71 /* Lesson11.swift in Sources */,
+				67FCDC812A7ECF6000434E71 /* Lesson15.swift in Sources */,
 				67FCDC632A7C2C8500434E71 /* Lesson01.swift in Sources */,
 				67FCDC732A7EBB4900434E71 /* Lesson08.swift in Sources */,
 				67FCDC752A7EBFB500434E71 /* Lesson09.swift in Sources */,
