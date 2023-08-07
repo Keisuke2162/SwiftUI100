@@ -39,6 +39,8 @@
 		67FCDC922A803AF000434E71 /* Lesson22.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC912A803AF000434E71 /* Lesson22.swift */; };
 		67FCDC952A8175BA00434E71 /* Lesson23ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC942A8175BA00434E71 /* Lesson23ContentView.swift */; };
 		67FCDC972A81856300434E71 /* Lesson23CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC962A81856300434E71 /* Lesson23CardView.swift */; };
+		67FCDC9A2A818D6700434E71 /* Lesson24ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC992A818D6700434E71 /* Lesson24ContentView.swift */; };
+		67FCDC9C2A818D7000434E71 /* Lesson24CardViewModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC9B2A818D7000434E71 /* Lesson24CardViewModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +96,8 @@
 		67FCDC912A803AF000434E71 /* Lesson22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson22.swift; sourceTree = "<group>"; };
 		67FCDC942A8175BA00434E71 /* Lesson23ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson23ContentView.swift; sourceTree = "<group>"; };
 		67FCDC962A81856300434E71 /* Lesson23CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson23CardView.swift; sourceTree = "<group>"; };
+		67FCDC992A818D6700434E71 /* Lesson24ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson24ContentView.swift; sourceTree = "<group>"; };
+		67FCDC9B2A818D7000434E71 /* Lesson24CardViewModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson24CardViewModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +208,7 @@
 				67FCDC8C2A801E5400434E71 /* Lesson21 */,
 				67FCDC912A803AF000434E71 /* Lesson22.swift */,
 				67FCDC932A81759A00434E71 /* Lesson23 */,
+				67FCDC982A818ACF00434E71 /* Lesson24 */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -224,6 +229,15 @@
 				67FCDC962A81856300434E71 /* Lesson23CardView.swift */,
 			);
 			path = Lesson23;
+			sourceTree = "<group>";
+		};
+		67FCDC982A818ACF00434E71 /* Lesson24 */ = {
+			isa = PBXGroup;
+			children = (
+				67FCDC992A818D6700434E71 /* Lesson24ContentView.swift */,
+				67FCDC9B2A818D7000434E71 /* Lesson24CardViewModifier.swift */,
+			);
+			path = Lesson24;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -365,6 +379,7 @@
 				67FCDC6B2A7C300E00434E71 /* Lesson04.swift in Sources */,
 				67FCDC792A7EC44C00434E71 /* Lesson11.swift in Sources */,
 				67FCDC812A7ECF6000434E71 /* Lesson15.swift in Sources */,
+				67FCDC9C2A818D7000434E71 /* Lesson24CardViewModifier.swift in Sources */,
 				67FCDC632A7C2C8500434E71 /* Lesson01.swift in Sources */,
 				67FCDC852A7EDCBE00434E71 /* Lesson17.swift in Sources */,
 				67FCDC972A81856300434E71 /* Lesson23CardView.swift in Sources */,
@@ -376,6 +391,7 @@
 				67FCDC922A803AF000434E71 /* Lesson22.swift in Sources */,
 				67FCDC6F2A7C322D00434E71 /* Lesson06.swift in Sources */,
 				67FCDC772A7EC32C00434E71 /* Lesson10.swift in Sources */,
+				67FCDC9A2A818D6700434E71 /* Lesson24ContentView.swift in Sources */,
 				67FCDC362A783A9C00434E71 /* SwiftUI100App.swift in Sources */,
 				67FCDC692A7C2F4D00434E71 /* Lesson03.swift in Sources */,
 				67FCDC952A8175BA00434E71 /* Lesson23ContentView.swift in Sources */,
