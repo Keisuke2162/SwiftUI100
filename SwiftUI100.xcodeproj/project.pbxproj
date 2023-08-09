@@ -41,6 +41,7 @@
 		67FCDC972A81856300434E71 /* Lesson23CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC962A81856300434E71 /* Lesson23CardView.swift */; };
 		67FCDC9A2A818D6700434E71 /* Lesson24ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC992A818D6700434E71 /* Lesson24ContentView.swift */; };
 		67FCDC9C2A818D7000434E71 /* Lesson24CardViewModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC9B2A818D7000434E71 /* Lesson24CardViewModifier.swift */; };
+		67FCDC9E2A84087B00434E71 /* Lesson25.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC9D2A84087B00434E71 /* Lesson25.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,6 +99,7 @@
 		67FCDC962A81856300434E71 /* Lesson23CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson23CardView.swift; sourceTree = "<group>"; };
 		67FCDC992A818D6700434E71 /* Lesson24ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson24ContentView.swift; sourceTree = "<group>"; };
 		67FCDC9B2A818D7000434E71 /* Lesson24CardViewModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson24CardViewModifier.swift; sourceTree = "<group>"; };
+		67FCDC9D2A84087B00434E71 /* Lesson25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson25.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -209,6 +211,7 @@
 				67FCDC912A803AF000434E71 /* Lesson22.swift */,
 				67FCDC932A81759A00434E71 /* Lesson23 */,
 				67FCDC982A818ACF00434E71 /* Lesson24 */,
+				67FCDC9D2A84087B00434E71 /* Lesson25.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -396,6 +399,7 @@
 				67FCDC692A7C2F4D00434E71 /* Lesson03.swift in Sources */,
 				67FCDC952A8175BA00434E71 /* Lesson23ContentView.swift in Sources */,
 				67FCDC6D2A7C30DF00434E71 /* Lesson05.swift in Sources */,
+				67FCDC9E2A84087B00434E71 /* Lesson25.swift in Sources */,
 				67FCDC7D2A7EC68800434E71 /* Lesson13.swift in Sources */,
 				67FCDC712A7C3ACE00434E71 /* Lesson07.swift in Sources */,
 				67FCDC672A7C2EBE00434E71 /* Lesson02.swift in Sources */,
