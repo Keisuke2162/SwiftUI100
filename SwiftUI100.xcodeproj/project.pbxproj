@@ -206,7 +206,6 @@
 		67FCDC5F2A7C2C6200434E71 /* Lessons */ = {
 			isa = PBXGroup;
 			children = (
-				677AC7862A8FEE4800BA0499 /* Lesson28 */,
 				67FCDC622A7C2C8500434E71 /* Lesson01.swift */,
 				67FCDC662A7C2EBE00434E71 /* Lesson02.swift */,
 				67FCDC682A7C2F4D00434E71 /* Lesson03.swift */,
@@ -234,6 +233,7 @@
 				67FCDC9D2A84087B00434E71 /* Lesson25.swift */,
 				67FCDC9F2A840AE300434E71 /* Lesson26.swift */,
 				67FCDCA12A840F4600434E71 /* Lesson27 */,
+				677AC7862A8FEE4800BA0499 /* Lesson28 */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
