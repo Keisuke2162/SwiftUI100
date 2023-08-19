@@ -11,6 +11,7 @@
 		677AC78A2A8FEEA700BA0499 /* Lesson28Entity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7892A8FEEA700BA0499 /* Lesson28Entity.swift */; };
 		677AC78C2A8FF38800BA0499 /* Lesson29.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC78B2A8FF38800BA0499 /* Lesson29.swift */; };
 		677AC78E2A90712000BA0499 /* Lesson30.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC78D2A90712000BA0499 /* Lesson30.swift */; };
+		677AC7902A907CD100BA0499 /* Lesson31.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC78F2A907CD100BA0499 /* Lesson31.swift */; };
 		67FCDC362A783A9C00434E71 /* SwiftUI100App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */; };
 		67FCDC382A783A9C00434E71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC372A783A9C00434E71 /* ContentView.swift */; };
 		67FCDC3A2A783A9D00434E71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67FCDC392A783A9D00434E71 /* Assets.xcassets */; };
@@ -73,6 +74,7 @@
 		677AC7892A8FEEA700BA0499 /* Lesson28Entity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson28Entity.swift; sourceTree = "<group>"; };
 		677AC78B2A8FF38800BA0499 /* Lesson29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson29.swift; sourceTree = "<group>"; };
 		677AC78D2A90712000BA0499 /* Lesson30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson30.swift; sourceTree = "<group>"; };
+		677AC78F2A907CD100BA0499 /* Lesson31.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson31.swift; sourceTree = "<group>"; };
 		67FCDC322A783A9C00434E71 /* SwiftUI100.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI100.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI100App.swift; sourceTree = "<group>"; };
 		67FCDC372A783A9C00434E71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -240,6 +242,7 @@
 				677AC7862A8FEE4800BA0499 /* Lesson28 */,
 				677AC78B2A8FF38800BA0499 /* Lesson29.swift */,
 				677AC78D2A90712000BA0499 /* Lesson30.swift */,
+				677AC78F2A907CD100BA0499 /* Lesson31.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -441,6 +444,7 @@
 				67FCDC692A7C2F4D00434E71 /* Lesson03.swift in Sources */,
 				67FCDC952A8175BA00434E71 /* Lesson23ContentView.swift in Sources */,
 				67FCDC6D2A7C30DF00434E71 /* Lesson05.swift in Sources */,
+				677AC7902A907CD100BA0499 /* Lesson31.swift in Sources */,
 				67FCDC9E2A84087B00434E71 /* Lesson25.swift in Sources */,
 				67FCDC7D2A7EC68800434E71 /* Lesson13.swift in Sources */,
 				67FCDCA52A840F6A00434E71 /* Lesson27SecondView.swift in Sources */,
