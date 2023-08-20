@@ -7,8 +7,8 @@
 
 import SwiftUI
 
-enum GithubAPI {
-    static func searchRepositories(page: Int, perPage: Int, completion: @escaping(Result<[Repository], Error>) -> Void) {
+enum Lesson42GithubAPI {
+    static func searchRepositories(page: Int, perPage: Int, completion: @escaping(Result<[Lesson42Repository], Error>) -> Void) {
         let url = URL(string: "https://api.github.com/search/repositories?q=swift&sort=stars&page=\(page)&per_page=\(perPage)")!
         let task = URLSession.shared.dataTask(with: url) { data, response, error in
             if let error = error {
@@ -16,7 +16,7 @@ enum GithubAPI {
                 return
             }
             do {
-                let responsies = try JSONDecoder().decode(GithubSearchResult.self, from: data!).items
+                let responsies = try JSONDecoder().decode(Lesson42GithubSearchResult.self, from: data!).items
                 completion(Result.success(responsies))
             } catch let error {
                 completion(Result.failure(error))
@@ -26,11 +26,11 @@ enum GithubAPI {
     }
 }
 
-struct GithubSearchResult: Codable {
-    let items: [Repository]
+struct Lesson42GithubSearchResult: Codable {
+    let items: [Lesson42Repository]
 }
 
-struct Repository: Codable, Identifiable, Equatable {
+struct Lesson42Repository: Codable, Identifiable, Equatable {
     let id: Int
     let name: String
     let description: String?
@@ -45,7 +45,7 @@ struct Repository: Codable, Identifiable, Equatable {
 }
 
 struct Lesson42: View {
-    @State private var repositories: [Repository] = []
+    @State private var repositories: [Lesson42Repository] = []
     @State private var isShowAlert = false
     @State private var errorMessage = ""
 
@@ -55,7 +55,7 @@ struct Lesson42: View {
                 Text(repository.name)
             }
         }.onAppear {
-            GithubAPI.searchRepositories(page: 1, perPage: 50) { result in
+            Lesson42GithubAPI.searchRepositories(page: 1, perPage: 50) { result in
                 switch result {
                 case let .success(repositories):
                     DispatchQueue.main.async {
