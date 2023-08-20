@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		677AC7882A8FEE7000BA0499 /* Lesson28ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7872A8FEE7000BA0499 /* Lesson28ContentView.swift */; };
+		677AC78A2A8FEEA700BA0499 /* Lesson28Entity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7892A8FEEA700BA0499 /* Lesson28Entity.swift */; };
+		677AC78C2A8FF38800BA0499 /* Lesson29.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC78B2A8FF38800BA0499 /* Lesson29.swift */; };
+		677AC78E2A90712000BA0499 /* Lesson30.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC78D2A90712000BA0499 /* Lesson30.swift */; };
+		677AC7902A907CD100BA0499 /* Lesson31.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC78F2A907CD100BA0499 /* Lesson31.swift */; };
+		677AC7922A9081BA00BA0499 /* Lesson32.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7912A9081BA00BA0499 /* Lesson32.swift */; };
+		677AC7942A90837E00BA0499 /* Lesson33.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7932A90837E00BA0499 /* Lesson33.swift */; };
+		677AC7962A9088B200BA0499 /* Lesson34.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7952A9088B200BA0499 /* Lesson34.swift */; };
+		677AC7982A90897E00BA0499 /* Lesson35.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7972A90897E00BA0499 /* Lesson35.swift */; };
+		677AC79A2A90976700BA0499 /* Lesson36.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7992A90976700BA0499 /* Lesson36.swift */; };
 		67FCDC362A783A9C00434E71 /* SwiftUI100App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */; };
 		67FCDC382A783A9C00434E71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC372A783A9C00434E71 /* ContentView.swift */; };
 		67FCDC3A2A783A9D00434E71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67FCDC392A783A9D00434E71 /* Assets.xcassets */; };
@@ -65,6 +75,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		677AC7872A8FEE7000BA0499 /* Lesson28ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson28ContentView.swift; sourceTree = "<group>"; };
+		677AC7892A8FEEA700BA0499 /* Lesson28Entity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson28Entity.swift; sourceTree = "<group>"; };
+		677AC78B2A8FF38800BA0499 /* Lesson29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson29.swift; sourceTree = "<group>"; };
+		677AC78D2A90712000BA0499 /* Lesson30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson30.swift; sourceTree = "<group>"; };
+		677AC78F2A907CD100BA0499 /* Lesson31.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson31.swift; sourceTree = "<group>"; };
+		677AC7912A9081BA00BA0499 /* Lesson32.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson32.swift; sourceTree = "<group>"; };
+		677AC7932A90837E00BA0499 /* Lesson33.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson33.swift; sourceTree = "<group>"; };
+		677AC7952A9088B200BA0499 /* Lesson34.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson34.swift; sourceTree = "<group>"; };
+		677AC7972A90897E00BA0499 /* Lesson35.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson35.swift; sourceTree = "<group>"; };
+		677AC7992A90976700BA0499 /* Lesson36.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson36.swift; sourceTree = "<group>"; };
 		67FCDC322A783A9C00434E71 /* SwiftUI100.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI100.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI100App.swift; sourceTree = "<group>"; };
 		67FCDC372A783A9C00434E71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -133,6 +153,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		677AC7862A8FEE4800BA0499 /* Lesson28 */ = {
+			isa = PBXGroup;
+			children = (
+				677AC7872A8FEE7000BA0499 /* Lesson28ContentView.swift */,
+				677AC7892A8FEEA700BA0499 /* Lesson28Entity.swift */,
+			);
+			path = Lesson28;
+			sourceTree = "<group>";
+		};
 		67FCDC292A783A9C00434E71 = {
 			isa = PBXGroup;
 			children = (
@@ -220,6 +249,15 @@
 				67FCDC9D2A84087B00434E71 /* Lesson25.swift */,
 				67FCDC9F2A840AE300434E71 /* Lesson26.swift */,
 				67FCDCA12A840F4600434E71 /* Lesson27 */,
+				677AC7862A8FEE4800BA0499 /* Lesson28 */,
+				677AC78B2A8FF38800BA0499 /* Lesson29.swift */,
+				677AC78D2A90712000BA0499 /* Lesson30.swift */,
+				677AC78F2A907CD100BA0499 /* Lesson31.swift */,
+				677AC7912A9081BA00BA0499 /* Lesson32.swift */,
+				677AC7932A90837E00BA0499 /* Lesson33.swift */,
+				677AC7952A9088B200BA0499 /* Lesson34.swift */,
+				677AC7972A90897E00BA0499 /* Lesson35.swift */,
+				677AC7992A90976700BA0499 /* Lesson36.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -391,11 +429,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				67FCDC892A7EE10200434E71 /* Lesson19.swift in Sources */,
+				677AC7982A90897E00BA0499 /* Lesson35.swift in Sources */,
 				67FCDC832A7ED0FE00434E71 /* Lesson16.swift in Sources */,
 				67FCDC7B2A7EC5E800434E71 /* Lesson12.swift in Sources */,
+				677AC78A2A8FEEA700BA0499 /* Lesson28Entity.swift in Sources */,
 				67FCDC872A7EDD6200434E71 /* Lesson18.swift in Sources */,
 				67FCDC382A783A9C00434E71 /* ContentView.swift in Sources */,
 				67FCDC7F2A7ECA5100434E71 /* Lesson14.swift in Sources */,
+				677AC7922A9081BA00BA0499 /* Lesson32.swift in Sources */,
+				677AC79A2A90976700BA0499 /* Lesson36.swift in Sources */,
 				67FCDC6B2A7C300E00434E71 /* Lesson04.swift in Sources */,
 				67FCDCA32A840F5F00434E71 /* Lesson27ContentView.swift in Sources */,
 				67FCDC792A7EC44C00434E71 /* Lesson11.swift in Sources */,
@@ -406,9 +448,11 @@
 				67FCDCA02A840AE300434E71 /* Lesson26.swift in Sources */,
 				67FCDC972A81856300434E71 /* Lesson23CardView.swift in Sources */,
 				67FCDC902A8027A700434E71 /* Lesson21ShowMoreView.swift in Sources */,
+				677AC78E2A90712000BA0499 /* Lesson30.swift in Sources */,
 				67FCDC732A7EBB4900434E71 /* Lesson08.swift in Sources */,
 				67FCDC752A7EBFB500434E71 /* Lesson09.swift in Sources */,
 				67FCDC8E2A801E7400434E71 /* Lesson21ContentView.swift in Sources */,
+				677AC78C2A8FF38800BA0499 /* Lesson29.swift in Sources */,
 				67FCDC8B2A7EE59000434E71 /* Lesson20.swift in Sources */,
 				67FCDC922A803AF000434E71 /* Lesson22.swift in Sources */,
 				67FCDC6F2A7C322D00434E71 /* Lesson06.swift in Sources */,
@@ -417,11 +461,15 @@
 				67FCDC362A783A9C00434E71 /* SwiftUI100App.swift in Sources */,
 				67FCDC692A7C2F4D00434E71 /* Lesson03.swift in Sources */,
 				67FCDC952A8175BA00434E71 /* Lesson23ContentView.swift in Sources */,
+				677AC7962A9088B200BA0499 /* Lesson34.swift in Sources */,
 				67FCDC6D2A7C30DF00434E71 /* Lesson05.swift in Sources */,
+				677AC7902A907CD100BA0499 /* Lesson31.swift in Sources */,
 				67FCDC9E2A84087B00434E71 /* Lesson25.swift in Sources */,
 				67FCDC7D2A7EC68800434E71 /* Lesson13.swift in Sources */,
+				677AC7942A90837E00BA0499 /* Lesson33.swift in Sources */,
 				67FCDCA52A840F6A00434E71 /* Lesson27SecondView.swift in Sources */,
 				67FCDC712A7C3ACE00434E71 /* Lesson07.swift in Sources */,
+				677AC7882A8FEE7000BA0499 /* Lesson28ContentView.swift in Sources */,
 				67FCDC672A7C2EBE00434E71 /* Lesson02.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -587,8 +635,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -616,8 +664,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
