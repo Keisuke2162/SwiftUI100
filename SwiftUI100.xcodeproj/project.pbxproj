@@ -17,6 +17,18 @@
 		677AC7962A9088B200BA0499 /* Lesson34.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7952A9088B200BA0499 /* Lesson34.swift */; };
 		677AC7982A90897E00BA0499 /* Lesson35.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7972A90897E00BA0499 /* Lesson35.swift */; };
 		677AC79A2A90976700BA0499 /* Lesson36.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7992A90976700BA0499 /* Lesson36.swift */; };
+		677AC79D2A91D9C800BA0499 /* Lesson37ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC79C2A91D9C800BA0499 /* Lesson37ContentView.swift */; };
+		677AC79F2A91D9DE00BA0499 /* Lesson37PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC79E2A91D9DE00BA0499 /* Lesson37PageView.swift */; };
+		677AC7A12A91D9ED00BA0499 /* Lesson37PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7A02A91D9ED00BA0499 /* Lesson37PageViewController.swift */; };
+		677AC7A32A91DA0600BA0499 /* Lesson37PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7A22A91DA0600BA0499 /* Lesson37PageControl.swift */; };
+		677AC7A52A92071100BA0499 /* Lesson38.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7A42A92071100BA0499 /* Lesson38.swift */; };
+		677AC7A72A9209D800BA0499 /* Lesson39.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7A62A9209D800BA0499 /* Lesson39.swift */; };
+		677AC7A92A92150D00BA0499 /* Lesson40.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7A82A92150D00BA0499 /* Lesson40.swift */; };
+		677AC7AB2A9219DC00BA0499 /* Lesson41.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7AA2A9219DC00BA0499 /* Lesson41.swift */; };
+		677AC7AD2A92219E00BA0499 /* Lesson42.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7AC2A92219E00BA0499 /* Lesson42.swift */; };
+		677AC7AF2A92567600BA0499 /* Lesson43.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7AE2A92567600BA0499 /* Lesson43.swift */; };
+		677AC7B12A92823400BA0499 /* Lesson44.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7B02A92823400BA0499 /* Lesson44.swift */; };
+		677AC7B32A92862F00BA0499 /* Lesson45.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7B22A92862F00BA0499 /* Lesson45.swift */; };
 		67FCDC362A783A9C00434E71 /* SwiftUI100App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */; };
 		67FCDC382A783A9C00434E71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC372A783A9C00434E71 /* ContentView.swift */; };
 		67FCDC3A2A783A9D00434E71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67FCDC392A783A9D00434E71 /* Assets.xcassets */; };
@@ -85,6 +97,18 @@
 		677AC7952A9088B200BA0499 /* Lesson34.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson34.swift; sourceTree = "<group>"; };
 		677AC7972A90897E00BA0499 /* Lesson35.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson35.swift; sourceTree = "<group>"; };
 		677AC7992A90976700BA0499 /* Lesson36.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson36.swift; sourceTree = "<group>"; };
+		677AC79C2A91D9C800BA0499 /* Lesson37ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson37ContentView.swift; sourceTree = "<group>"; };
+		677AC79E2A91D9DE00BA0499 /* Lesson37PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson37PageView.swift; sourceTree = "<group>"; };
+		677AC7A02A91D9ED00BA0499 /* Lesson37PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson37PageViewController.swift; sourceTree = "<group>"; };
+		677AC7A22A91DA0600BA0499 /* Lesson37PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson37PageControl.swift; sourceTree = "<group>"; };
+		677AC7A42A92071100BA0499 /* Lesson38.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson38.swift; sourceTree = "<group>"; };
+		677AC7A62A9209D800BA0499 /* Lesson39.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson39.swift; sourceTree = "<group>"; };
+		677AC7A82A92150D00BA0499 /* Lesson40.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson40.swift; sourceTree = "<group>"; };
+		677AC7AA2A9219DC00BA0499 /* Lesson41.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson41.swift; sourceTree = "<group>"; };
+		677AC7AC2A92219E00BA0499 /* Lesson42.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson42.swift; sourceTree = "<group>"; };
+		677AC7AE2A92567600BA0499 /* Lesson43.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson43.swift; sourceTree = "<group>"; };
+		677AC7B02A92823400BA0499 /* Lesson44.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson44.swift; sourceTree = "<group>"; };
+		677AC7B22A92862F00BA0499 /* Lesson45.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson45.swift; sourceTree = "<group>"; };
 		67FCDC322A783A9C00434E71 /* SwiftUI100.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI100.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI100App.swift; sourceTree = "<group>"; };
 		67FCDC372A783A9C00434E71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -160,6 +184,17 @@
 				677AC7892A8FEEA700BA0499 /* Lesson28Entity.swift */,
 			);
 			path = Lesson28;
+			sourceTree = "<group>";
+		};
+		677AC79B2A91D93D00BA0499 /* Lesson37 */ = {
+			isa = PBXGroup;
+			children = (
+				677AC79C2A91D9C800BA0499 /* Lesson37ContentView.swift */,
+				677AC7A22A91DA0600BA0499 /* Lesson37PageControl.swift */,
+				677AC79E2A91D9DE00BA0499 /* Lesson37PageView.swift */,
+				677AC7A02A91D9ED00BA0499 /* Lesson37PageViewController.swift */,
+			);
+			path = Lesson37;
 			sourceTree = "<group>";
 		};
 		67FCDC292A783A9C00434E71 = {
@@ -258,6 +293,15 @@
 				677AC7952A9088B200BA0499 /* Lesson34.swift */,
 				677AC7972A90897E00BA0499 /* Lesson35.swift */,
 				677AC7992A90976700BA0499 /* Lesson36.swift */,
+				677AC79B2A91D93D00BA0499 /* Lesson37 */,
+				677AC7A42A92071100BA0499 /* Lesson38.swift */,
+				677AC7A62A9209D800BA0499 /* Lesson39.swift */,
+				677AC7A82A92150D00BA0499 /* Lesson40.swift */,
+				677AC7AA2A9219DC00BA0499 /* Lesson41.swift */,
+				677AC7AC2A92219E00BA0499 /* Lesson42.swift */,
+				677AC7AE2A92567600BA0499 /* Lesson43.swift */,
+				677AC7B02A92823400BA0499 /* Lesson44.swift */,
+				677AC7B22A92862F00BA0499 /* Lesson45.swift */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -430,16 +474,21 @@
 			files = (
 				67FCDC892A7EE10200434E71 /* Lesson19.swift in Sources */,
 				677AC7982A90897E00BA0499 /* Lesson35.swift in Sources */,
+				677AC7A72A9209D800BA0499 /* Lesson39.swift in Sources */,
+				677AC7AF2A92567600BA0499 /* Lesson43.swift in Sources */,
 				67FCDC832A7ED0FE00434E71 /* Lesson16.swift in Sources */,
 				67FCDC7B2A7EC5E800434E71 /* Lesson12.swift in Sources */,
 				677AC78A2A8FEEA700BA0499 /* Lesson28Entity.swift in Sources */,
 				67FCDC872A7EDD6200434E71 /* Lesson18.swift in Sources */,
 				67FCDC382A783A9C00434E71 /* ContentView.swift in Sources */,
+				677AC7B32A92862F00BA0499 /* Lesson45.swift in Sources */,
 				67FCDC7F2A7ECA5100434E71 /* Lesson14.swift in Sources */,
+				677AC7A92A92150D00BA0499 /* Lesson40.swift in Sources */,
 				677AC7922A9081BA00BA0499 /* Lesson32.swift in Sources */,
 				677AC79A2A90976700BA0499 /* Lesson36.swift in Sources */,
 				67FCDC6B2A7C300E00434E71 /* Lesson04.swift in Sources */,
 				67FCDCA32A840F5F00434E71 /* Lesson27ContentView.swift in Sources */,
+				677AC7B12A92823400BA0499 /* Lesson44.swift in Sources */,
 				67FCDC792A7EC44C00434E71 /* Lesson11.swift in Sources */,
 				67FCDC812A7ECF6000434E71 /* Lesson15.swift in Sources */,
 				67FCDC9C2A818D7000434E71 /* Lesson24CardViewModifier.swift in Sources */,
@@ -448,25 +497,32 @@
 				67FCDCA02A840AE300434E71 /* Lesson26.swift in Sources */,
 				67FCDC972A81856300434E71 /* Lesson23CardView.swift in Sources */,
 				67FCDC902A8027A700434E71 /* Lesson21ShowMoreView.swift in Sources */,
+				677AC79D2A91D9C800BA0499 /* Lesson37ContentView.swift in Sources */,
 				677AC78E2A90712000BA0499 /* Lesson30.swift in Sources */,
 				67FCDC732A7EBB4900434E71 /* Lesson08.swift in Sources */,
 				67FCDC752A7EBFB500434E71 /* Lesson09.swift in Sources */,
 				67FCDC8E2A801E7400434E71 /* Lesson21ContentView.swift in Sources */,
 				677AC78C2A8FF38800BA0499 /* Lesson29.swift in Sources */,
 				67FCDC8B2A7EE59000434E71 /* Lesson20.swift in Sources */,
+				677AC7A32A91DA0600BA0499 /* Lesson37PageControl.swift in Sources */,
 				67FCDC922A803AF000434E71 /* Lesson22.swift in Sources */,
 				67FCDC6F2A7C322D00434E71 /* Lesson06.swift in Sources */,
 				67FCDC772A7EC32C00434E71 /* Lesson10.swift in Sources */,
+				677AC7AB2A9219DC00BA0499 /* Lesson41.swift in Sources */,
 				67FCDC9A2A818D6700434E71 /* Lesson24ContentView.swift in Sources */,
 				67FCDC362A783A9C00434E71 /* SwiftUI100App.swift in Sources */,
 				67FCDC692A7C2F4D00434E71 /* Lesson03.swift in Sources */,
 				67FCDC952A8175BA00434E71 /* Lesson23ContentView.swift in Sources */,
 				677AC7962A9088B200BA0499 /* Lesson34.swift in Sources */,
 				67FCDC6D2A7C30DF00434E71 /* Lesson05.swift in Sources */,
+				677AC7A12A91D9ED00BA0499 /* Lesson37PageViewController.swift in Sources */,
 				677AC7902A907CD100BA0499 /* Lesson31.swift in Sources */,
 				67FCDC9E2A84087B00434E71 /* Lesson25.swift in Sources */,
+				677AC7A52A92071100BA0499 /* Lesson38.swift in Sources */,
 				67FCDC7D2A7EC68800434E71 /* Lesson13.swift in Sources */,
+				677AC79F2A91D9DE00BA0499 /* Lesson37PageView.swift in Sources */,
 				677AC7942A90837E00BA0499 /* Lesson33.swift in Sources */,
+				677AC7AD2A92219E00BA0499 /* Lesson42.swift in Sources */,
 				67FCDCA52A840F6A00434E71 /* Lesson27SecondView.swift in Sources */,
 				67FCDC712A7C3ACE00434E71 /* Lesson07.swift in Sources */,
 				677AC7882A8FEE7000BA0499 /* Lesson28ContentView.swift in Sources */,
