@@ -9,6 +9,7 @@ import SwiftUI
 import MapKit
 
 // 模範解答とやり方だいぶ違う。これ見た→https://zenn.dev/ryodeveloper/articles/kame_ga_2_hiki
+// こっちはタップじゃなくて指定した箇所にピン刺す実装にしてる
 
 struct Lesson50: View {
     @State private var region = MKCoordinateRegion(
