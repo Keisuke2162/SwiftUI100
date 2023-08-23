@@ -34,6 +34,8 @@
 		677AC7BA2A950D2100BA0499 /* Lesson48.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7B92A950D2100BA0499 /* Lesson48.swift */; };
 		677AC7BC2A95115C00BA0499 /* Lesson49.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7BB2A95115C00BA0499 /* Lesson49.swift */; };
 		677AC7BE2A9518B700BA0499 /* Lesson50.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7BD2A9518B700BA0499 /* Lesson50.swift */; };
+		677AC7C32A95367700BA0499 /* Lesson51ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7C22A95367700BA0499 /* Lesson51ContentView.swift */; };
+		677AC7C52A95368800BA0499 /* Lesson51MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7C42A95368800BA0499 /* Lesson51MapView.swift */; };
 		67FCDC362A783A9C00434E71 /* SwiftUI100App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */; };
 		67FCDC382A783A9C00434E71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC372A783A9C00434E71 /* ContentView.swift */; };
 		67FCDC3A2A783A9D00434E71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67FCDC392A783A9D00434E71 /* Assets.xcassets */; };
@@ -119,6 +121,8 @@
 		677AC7B92A950D2100BA0499 /* Lesson48.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson48.swift; sourceTree = "<group>"; };
 		677AC7BB2A95115C00BA0499 /* Lesson49.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson49.swift; sourceTree = "<group>"; };
 		677AC7BD2A9518B700BA0499 /* Lesson50.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson50.swift; sourceTree = "<group>"; };
+		677AC7C22A95367700BA0499 /* Lesson51ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson51ContentView.swift; sourceTree = "<group>"; };
+		677AC7C42A95368800BA0499 /* Lesson51MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson51MapView.swift; sourceTree = "<group>"; };
 		67FCDC322A783A9C00434E71 /* SwiftUI100.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI100.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI100App.swift; sourceTree = "<group>"; };
 		67FCDC372A783A9C00434E71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -205,6 +209,15 @@
 				677AC7A02A91D9ED00BA0499 /* Lesson37PageViewController.swift */,
 			);
 			path = Lesson37;
+			sourceTree = "<group>";
+		};
+		677AC7C12A95365B00BA0499 /* Lesson51 */ = {
+			isa = PBXGroup;
+			children = (
+				677AC7C22A95367700BA0499 /* Lesson51ContentView.swift */,
+				677AC7C42A95368800BA0499 /* Lesson51MapView.swift */,
+			);
+			path = Lesson51;
 			sourceTree = "<group>";
 		};
 		67FCDC292A783A9C00434E71 = {
@@ -317,6 +330,7 @@
 				677AC7B92A950D2100BA0499 /* Lesson48.swift */,
 				677AC7BB2A95115C00BA0499 /* Lesson49.swift */,
 				677AC7BD2A9518B700BA0499 /* Lesson50.swift */,
+				677AC7C12A95365B00BA0499 /* Lesson51 */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -490,6 +504,7 @@
 				67FCDC892A7EE10200434E71 /* Lesson19.swift in Sources */,
 				677AC7982A90897E00BA0499 /* Lesson35.swift in Sources */,
 				677AC7A72A9209D800BA0499 /* Lesson39.swift in Sources */,
+				677AC7C52A95368800BA0499 /* Lesson51MapView.swift in Sources */,
 				677AC7AF2A92567600BA0499 /* Lesson43.swift in Sources */,
 				67FCDC832A7ED0FE00434E71 /* Lesson16.swift in Sources */,
 				67FCDC7B2A7EC5E800434E71 /* Lesson12.swift in Sources */,
@@ -503,6 +518,7 @@
 				677AC7922A9081BA00BA0499 /* Lesson32.swift in Sources */,
 				677AC79A2A90976700BA0499 /* Lesson36.swift in Sources */,
 				67FCDC6B2A7C300E00434E71 /* Lesson04.swift in Sources */,
+				677AC7C32A95367700BA0499 /* Lesson51ContentView.swift in Sources */,
 				67FCDCA32A840F5F00434E71 /* Lesson27ContentView.swift in Sources */,
 				677AC7B12A92823400BA0499 /* Lesson44.swift in Sources */,
 				67FCDC792A7EC44C00434E71 /* Lesson11.swift in Sources */,
