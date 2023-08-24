@@ -38,6 +38,9 @@
 		677AC7C52A95368800BA0499 /* Lesson51MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7C42A95368800BA0499 /* Lesson51MapView.swift */; };
 		677AC7C82A968DFE00BA0499 /* Lesson52MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7C72A968DFE00BA0499 /* Lesson52MainView.swift */; };
 		677AC7CA2A968E0C00BA0499 /* Lesson52InputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7C92A968E0C00BA0499 /* Lesson52InputView.swift */; };
+		677AC7CD2A97DE5B00BA0499 /* Lesson53ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7CC2A97DE5B00BA0499 /* Lesson53ContentView.swift */; };
+		677AC7CF2A97DE6B00BA0499 /* Lesson53ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 677AC7CE2A97DE6B00BA0499 /* Lesson53ContentViewModel.swift */; };
+		677AC7D32A97DFC500BA0499 /* bgm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 677AC7D22A97DFC500BA0499 /* bgm.mp3 */; };
 		67FCDC362A783A9C00434E71 /* SwiftUI100App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */; };
 		67FCDC382A783A9C00434E71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67FCDC372A783A9C00434E71 /* ContentView.swift */; };
 		67FCDC3A2A783A9D00434E71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67FCDC392A783A9D00434E71 /* Assets.xcassets */; };
@@ -127,6 +130,9 @@
 		677AC7C42A95368800BA0499 /* Lesson51MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson51MapView.swift; sourceTree = "<group>"; };
 		677AC7C72A968DFE00BA0499 /* Lesson52MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson52MainView.swift; sourceTree = "<group>"; };
 		677AC7C92A968E0C00BA0499 /* Lesson52InputView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson52InputView.swift; sourceTree = "<group>"; };
+		677AC7CC2A97DE5B00BA0499 /* Lesson53ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson53ContentView.swift; sourceTree = "<group>"; };
+		677AC7CE2A97DE6B00BA0499 /* Lesson53ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson53ContentViewModel.swift; sourceTree = "<group>"; };
+		677AC7D22A97DFC500BA0499 /* bgm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = bgm.mp3; path = ../../../../Downloads/bgm.mp3; sourceTree = "<group>"; };
 		67FCDC322A783A9C00434E71 /* SwiftUI100.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI100.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI100App.swift; sourceTree = "<group>"; };
 		67FCDC372A783A9C00434E71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -233,6 +239,23 @@
 			path = Lesson52;
 			sourceTree = "<group>";
 		};
+		677AC7CB2A97DE4100BA0499 /* Lesson53 */ = {
+			isa = PBXGroup;
+			children = (
+				677AC7CC2A97DE5B00BA0499 /* Lesson53ContentView.swift */,
+				677AC7CE2A97DE6B00BA0499 /* Lesson53ContentViewModel.swift */,
+			);
+			path = Lesson53;
+			sourceTree = "<group>";
+		};
+		677AC7D02A97DF9000BA0499 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				677AC7D22A97DFC500BA0499 /* bgm.mp3 */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
 		67FCDC292A783A9C00434E71 = {
 			isa = PBXGroup;
 			children = (
@@ -256,6 +279,7 @@
 		67FCDC342A783A9C00434E71 /* SwiftUI100 */ = {
 			isa = PBXGroup;
 			children = (
+				677AC7D02A97DF9000BA0499 /* Resource */,
 				67FCDC5F2A7C2C6200434E71 /* Lessons */,
 				67FCDC352A783A9C00434E71 /* SwiftUI100App.swift */,
 				67FCDC372A783A9C00434E71 /* ContentView.swift */,
@@ -345,6 +369,7 @@
 				677AC7BD2A9518B700BA0499 /* Lesson50.swift */,
 				677AC7C12A95365B00BA0499 /* Lesson51 */,
 				677AC7C62A968DD500BA0499 /* Lesson52 */,
+				677AC7CB2A97DE4100BA0499 /* Lesson53 */,
 			);
 			path = Lessons;
 			sourceTree = "<group>";
@@ -489,6 +514,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				677AC7D32A97DFC500BA0499 /* bgm.mp3 in Resources */,
 				67FCDC3D2A783A9D00434E71 /* Preview Assets.xcassets in Resources */,
 				67FCDC3A2A783A9D00434E71 /* Assets.xcassets in Resources */,
 			);
@@ -561,7 +587,9 @@
 				677AC7AB2A9219DC00BA0499 /* Lesson41.swift in Sources */,
 				67FCDC9A2A818D6700434E71 /* Lesson24ContentView.swift in Sources */,
 				67FCDC362A783A9C00434E71 /* SwiftUI100App.swift in Sources */,
+				677AC7CD2A97DE5B00BA0499 /* Lesson53ContentView.swift in Sources */,
 				677AC7B52A95034F00BA0499 /* Lesson46.swift in Sources */,
+				677AC7CF2A97DE6B00BA0499 /* Lesson53ContentViewModel.swift in Sources */,
 				67FCDC692A7C2F4D00434E71 /* Lesson03.swift in Sources */,
 				67FCDC952A8175BA00434E71 /* Lesson23ContentView.swift in Sources */,
 				677AC7962A9088B200BA0499 /* Lesson34.swift in Sources */,
